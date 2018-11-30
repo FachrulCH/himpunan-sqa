@@ -21,6 +21,12 @@
 ### Konsep
 [Cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction) | Belajar konsep testing kompatibilitas berbagai browser
 
+### Cucumber
+
+[Declarative User Stories Translate to Good Cucumber Features](http://fasteragile.com/blog/2015/01/19/declarative-user-stories-translate-to-good-cucumber-features/) | Tips bikin scenario steps yg cakep
+
+
+
 ### API
 
 [Testing with Naughty Strings in Postman](https://ambertests.com/2018/05/29/testing-with-naughty-strings-in-postman/) | Text ajaib apa aja yang bisa bikin API error
